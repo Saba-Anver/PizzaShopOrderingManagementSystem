@@ -1,0 +1,1 @@
+This C# Pizza Shop Ordering Management System manages take-away, dine-in, and home delivery orders using queues. It tracks served customers in an AVL tree, calculates bills/earnings, and uses Dijkstra's for delivery. It also saves and displays order history to a file.
